@@ -1,0 +1,26 @@
+{
+  "description": "Synthetic sample inputs for Skill-Bridge Career Navigator. No real personal data.",
+  "samples": [
+    {
+      "targetRole": "Cloud Security Engineer",
+      "resumeText": "Computer Science graduate. Internship at TechCorp: assisted with access reviews and security documentation. Coursework: networks, cryptography, Python, Linux.",
+      "skills": ["Python", "Linux", "Networking basics", "Documentation"],
+      "certifications": [],
+      "experience": "3-month internship in IT security team. Helped with SSO rollout and user access audits."
+    },
+    {
+      "targetRole": "Product Manager",
+      "resumeText": "Led two campus hackathon projects. Coordinated with designers and engineers. Shipped a small mobile app feature.",
+      "skills": ["Jira", "Agile", "Stakeholder communication", "User research"],
+      "certifications": ["Google Project Management Certificate"],
+      "experience": "1 year as student project lead; 6 months part-time as PM intern."
+    },
+    {
+      "targetRole": "Data Analyst",
+      "resumeText": "Statistics major. Used R and Excel for coursework. Built dashboards in Tableau for class projects.",
+      "skills": ["R", "Excel", "Tableau", "SQL"],
+      "certifications": [],
+      "experience": "Research assistant for one semester; cleaned and analyzed survey data."
+    }
+  ]
+}
